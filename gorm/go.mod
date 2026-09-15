@@ -15,16 +15,16 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/redis/go-redis/v9 v9.22.0
 	github.com/stretchr/testify v1.12.1
-	github.com/mimokpl/go-crud/api v0.0.7
-	github.com/mimokpl/go-crud/cache v0.0.2
-	github.com/mimokpl/go-crud/pagination v0.0.16
-	github.com/mimokpl/go-crud/viewer v0.0.7
-	github.com/mimokpl/go-utils v1.1.40
-	github.com/mimokpl/go-utils/id v0.0.6
-	github.com/mimokpl/go-utils/mapper v0.0.3
-	github.com/mimokpl/miwin v0.0.2
-	github.com/mimokpl/miwin-plugins/encoding v0.0.1
-	github.com/mimokpl/miwin-plugins/encoding/json v0.0.1
+	github.com/mimokpl/go-crud/api v1.1.1
+	github.com/mimokpl/go-crud/cache v1.1.1
+	github.com/mimokpl/go-crud/pagination v1.1.1
+	github.com/mimokpl/go-crud/viewer v1.1.1
+	github.com/mimokpl/go-utils v1.1.1
+	github.com/mimokpl/go-utils/id v1.1.1
+	github.com/mimokpl/go-utils/mapper v1.1.1
+	github.com/mimokpl/miwin v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding/json v1.1.1
 	go.opentelemetry.io/otel v1.46.0
 	go.opentelemetry.io/otel/trace v1.46.0
 	google.golang.org/protobuf v1.36.12

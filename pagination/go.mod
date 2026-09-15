@@ -6,10 +6,10 @@ replace github.com/mimokpl/go-crud/api => ../api
 
 require (
 	github.com/google/go-cmp v0.7.0
-	github.com/mimokpl/go-crud/api v0.0.7
-	github.com/mimokpl/go-utils v1.1.40
-	github.com/mimokpl/miwin-plugins/encoding v0.0.1
-	github.com/mimokpl/miwin-plugins/encoding/json v0.0.1
+	github.com/mimokpl/go-crud/api v1.1.1
+	github.com/mimokpl/go-utils v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding/json v1.1.1
 	go.einride.tech/aip v0.86.3
 	google.golang.org/genproto/googleapis/api v0.0.0-20260908043556-f8649ddbbfe6
 	google.golang.org/protobuf v1.36.12

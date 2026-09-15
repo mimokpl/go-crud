@@ -11,13 +11,13 @@ replace github.com/mimokpl/go-crud/viewer => ../viewer
 require (
 	github.com/ClickHouse/clickhouse-go/v2 v2.48.0
 	github.com/stretchr/testify v1.12.1
-	github.com/mimokpl/go-crud/api v0.0.7
-	github.com/mimokpl/go-crud/pagination v0.0.16
-	github.com/mimokpl/go-crud/viewer v0.0.7
-	github.com/mimokpl/go-utils v1.1.40
-	github.com/mimokpl/go-utils/mapper v0.0.3
-	github.com/mimokpl/miwin v0.0.2
-	github.com/mimokpl/miwin-plugins/encoding v0.0.1
+	github.com/mimokpl/go-crud/api v1.1.1
+	github.com/mimokpl/go-crud/pagination v1.1.1
+	github.com/mimokpl/go-crud/viewer v1.1.1
+	github.com/mimokpl/go-utils v1.1.1
+	github.com/mimokpl/go-utils/mapper v1.1.1
+	github.com/mimokpl/miwin v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding v1.1.1
 	google.golang.org/protobuf v1.36.12
 )
 
@@ -36,7 +36,7 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.29 // indirect
 	github.com/segmentio/asm v1.2.1 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
-	github.com/mimokpl/miwin-plugins/encoding/json v0.0.1 // indirect
+	github.com/mimokpl/miwin-plugins/encoding/json v1.1.1 // indirect
 	go.einride.tech/aip v0.86.3 // indirect
 	go.opentelemetry.io/otel v1.46.0 // indirect
 	go.opentelemetry.io/otel/trace v1.46.0 // indirect

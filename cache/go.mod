@@ -8,7 +8,7 @@ require (
 	github.com/alicebob/miniredis/v2 v2.38.0
 	github.com/redis/go-redis/v9 v9.22.0
 	github.com/stretchr/testify v1.11.1
-	github.com/mimokpl/go-utils v1.1.39
+	github.com/mimokpl/go-utils v1.1.1
 	golang.org/x/sync v0.22.0
 )
 

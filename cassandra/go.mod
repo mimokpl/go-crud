@@ -7,7 +7,7 @@ replace github.com/mimokpl/go-crud => ../
 require (
 	github.com/gocql/gocql v1.7.0
 	github.com/stretchr/testify v1.11.1
-	github.com/mimokpl/miwin v0.0.2
+	github.com/mimokpl/miwin v1.1.1
 )
 
 require (

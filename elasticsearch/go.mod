@@ -10,10 +10,10 @@ require (
 	github.com/elastic/elastic-transport-go/v8 v8.11.0
 	github.com/elastic/go-elasticsearch/v9 v9.5.2
 	github.com/stretchr/testify v1.12.1
-	github.com/mimokpl/go-crud/api v0.0.7
-	github.com/mimokpl/miwin v0.0.2
-	github.com/mimokpl/miwin-plugins/encoding v0.0.1
-	github.com/mimokpl/miwin-plugins/encoding/json v0.0.1
+	github.com/mimokpl/go-crud/api v1.1.1
+	github.com/mimokpl/miwin v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding/json v1.1.1
 )
 
 require (

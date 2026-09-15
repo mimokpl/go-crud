@@ -10,14 +10,14 @@ replace github.com/mimokpl/go-crud/viewer => ../viewer
 
 require (
 	github.com/stretchr/testify v1.11.1
-	github.com/mimokpl/go-crud/api v0.0.7
-	github.com/mimokpl/go-crud/pagination v0.0.16
-	github.com/mimokpl/go-crud/viewer v0.0.7
-	github.com/mimokpl/go-utils v1.1.40
-	github.com/mimokpl/go-utils/mapper v0.0.3
-	github.com/mimokpl/miwin v0.0.2
-	github.com/mimokpl/miwin-plugins/encoding v0.0.1
-	github.com/mimokpl/miwin-plugins/encoding/json v0.0.1
+	github.com/mimokpl/go-crud/api v1.1.1
+	github.com/mimokpl/go-crud/pagination v1.1.1
+	github.com/mimokpl/go-crud/viewer v1.1.1
+	github.com/mimokpl/go-utils v1.1.1
+	github.com/mimokpl/go-utils/mapper v1.1.1
+	github.com/mimokpl/miwin v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding v1.1.1
+	github.com/mimokpl/miwin-plugins/encoding/json v1.1.1
 	go.mongodb.org/mongo-driver/v2 v2.9.0
 	google.golang.org/protobuf v1.36.12
 )
