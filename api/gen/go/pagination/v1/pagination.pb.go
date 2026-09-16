@@ -1466,7 +1466,7 @@ const file_pagination_v1_pagination_proto_rawDesc = "" +
 	"\x05token\x18\x05 \x01(\tBW\xbaGT\x92\x02Q上一页最后一条记录的游标（如ID/时间戳+ID，首次请求为空）H\x05R\x05token\x88\x01\x01\x12k\n" +
 	"\tno_paging\x18\x06 \x01(\bBI\xbaGF\x92\x02C是否不分页，如果为true，则page和pageSize参数无效。H\x06R\bnoPaging\x88\x01\x01\x12\xf6\x01\n" +
 	"\x05query\x18\n" +
-	" \x01(\tB\xdd\x01\xbaG\xd9\x01:0\x12.{\"field1\":\"val1\", \"field2___icontains\":\"val2\"}\x92\x02\xa3\x01JSON字符串过滤条件，基础语法：{\"key1\":\"val1\",\"key2\":\"val2\"}，具体请参见：https://github.com/mimokpl/go-crud/tree/main/pagination/filter/README.mdH\x00R\x05query\x12H\n" +
+	" \x01(\tB\xdd\x01\xbaG\xd9\x01:0\x12.{\"field1\":\"val1\", \"field2___icontains\":\"val2\"}\x92\x02\xa3\x01JSON字符串过滤条件，基础语法：{\"key1\":\"val1\",\"key2\":\"val2\"}，具体请参见：https://github.com/tx7do/go-crud/tree/main/pagination/filter/README.mdH\x00R\x05query\x12H\n" +
 	"\x06filter\x18\v \x01(\tB.\xbaG+\x92\x02(Google AIP规范字符串过滤条件。H\x00R\x06filter\x12\xbd\x01\n" +
 	"\vfilter_expr\x18\f \x01(\v2\x16.pagination.FilterExprB\x81\x01\xbaG~\x92\x02{复杂过滤表达式，优先于已弃用的 query/or_query。服务端应以此为准并执行严格校验与参数化。H\x00R\n" +
 	"filterExpr\x12G\n" +
@@ -1517,7 +1517,7 @@ const file_pagination_v1_pagination_proto_rawDesc = "" +
 	"tokenBased\x12D\n" +
 	"\tno_paging\x18\x04 \x01(\v2\x14.pagination.NoPagingB\x0f\xbaG\f\x92\x02\t不分页H\x00R\bnoPaging\x12\xf6\x01\n" +
 	"\x05query\x18\n" +
-	" \x01(\tB\xdd\x01\xbaG\xd9\x01:0\x12.{\"field1\":\"val1\", \"field2___icontains\":\"val2\"}\x92\x02\xa3\x01JSON字符串过滤条件，基础语法：{\"key1\":\"val1\",\"key2\":\"val2\"}，具体请参见：https://github.com/mimokpl/go-crud/tree/main/pagination/filter/README.mdH\x01R\x05query\x12H\n" +
+	" \x01(\tB\xdd\x01\xbaG\xd9\x01:0\x12.{\"field1\":\"val1\", \"field2___icontains\":\"val2\"}\x92\x02\xa3\x01JSON字符串过滤条件，基础语法：{\"key1\":\"val1\",\"key2\":\"val2\"}，具体请参见：https://github.com/tx7do/go-crud/tree/main/pagination/filter/README.mdH\x01R\x05query\x12H\n" +
 	"\x06filter\x18\v \x01(\tB.\xbaG+\x92\x02(Google AIP规范字符串过滤条件。H\x01R\x06filter\x12\xbd\x01\n" +
 	"\vfilter_expr\x18\f \x01(\v2\x16.pagination.FilterExprB\x81\x01\xbaG~\x92\x02{复杂过滤表达式，优先于已弃用的 query/or_query。服务端应以此为准并执行严格校验与参数化。H\x01R\n" +
 	"filterExpr\x12G\n" +
@@ -1591,7 +1591,7 @@ const file_pagination_v1_pagination_proto_rawDesc = "" +
 	"\x15EXPR_TYPE_UNSPECIFIED\x10\x00\x12\a\n" +
 	"\x03AND\x10\x01\x12\x06\n" +
 	"\x02OR\x10\x02B\x9c\x01\n" +
-	"\x0ecom.paginationB\x0fPaginationProtoP\x01Z1github.com/mimokpl/go-crud/api/gen/go/pagination/v1\xa2\x02\x03PXX\xaa\x02\n" +
+	"\x0ecom.paginationB\x0fPaginationProtoP\x01Z1github.com/tx7do/go-crud/api/gen/go/pagination/v1\xa2\x02\x03PXX\xaa\x02\n" +
 	"Pagination\xca\x02\n" +
 	"Pagination\xe2\x02\x16Pagination\\GPBMetadata\xea\x02\n" +
 	"Paginationb\x06proto3"
